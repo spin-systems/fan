@@ -8,4 +8,5 @@ doc-log:doc
 vid-log:vid
 edu-log:edu
 pol-log:pol
+app-log:app
 jul-log:jul
